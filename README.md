@@ -1,4 +1,4 @@
-# sentiment_prediction
+# Amazon_sentiment_prediction
 To run the app.py we should have streamlit to be installed in our system
 
 streamlit run app.py
